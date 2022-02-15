@@ -1,5 +1,4 @@
-# Big-Ideas-Final-Project
-##  Team: Safety First
+# Best Pittsburgh Neighborhood
 Shreya Kalla 
 
 ## Datasets
