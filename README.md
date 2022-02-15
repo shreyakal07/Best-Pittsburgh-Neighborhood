@@ -1,6 +1,6 @@
 # Big-Ideas-Final-Project
 ##  Team: Safety First
-Shreya Kalla shk127@pitt.edu
+Shreya Kalla 
 
 ## Datasets
 ### [City Facilities](https://data.wprdc.org/dataset/city-of-pittsburgh-facilities/resource/fbb50b02-2879-47cd-abea-ae697ec05170)
